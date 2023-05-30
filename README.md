@@ -15,3 +15,9 @@ https://note-taker-kimmh891223.herokuapp.com/
 
 # Contribution
 - kimmh891223
+- Jacob Carver (tutor from Calendly)
+
+# Base Code
+- Xandromus 
+- nol166
+- Georgeyoo
