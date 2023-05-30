@@ -8,7 +8,7 @@ https://note-taker-kimmh891223.herokuapp.com/
 ![screenshot2](https://github.com/kimmh891223/note_taker/assets/125617951/095ec2ac-2cad-4389-abf2-681ffdec7860)
 
 # About
-- This is a not taking app that utilize backend technology like express.js and heroku.
+- This is a note taking app that utilize backend technology like express.js and heroku.
 - You can enter the title and content of your notes and it is saved in db.json file and rendered on the side of the page.
 - You can also delete notes using the trash can button.
 - The app is deployed using heroku.
